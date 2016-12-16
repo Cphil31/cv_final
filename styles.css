@@ -4,6 +4,9 @@
 	margin-top:3%;
 	margin-left:50px;  
 	}
+	.image{
+		transform: rotate(90deg);
+	}
 .icon{
 	clear: left;
 	font-size: 60px;
