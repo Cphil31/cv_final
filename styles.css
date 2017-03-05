@@ -1,12 +1,21 @@
+.devweb{
+	font-size: 4em;
+	margin-bottom: 2%;
+	font-weight: bold;
+}
+.icon{
+
+}
+}
 .head{
 	float:left;
 	font-size:50px;
 	margin-top:3%;
 	margin-left:50px;  
-	}
-	.image{
-		/*transform: rotate(90deg);*/
-	}
+}
+.image{
+	/*transform: rotate(90deg);*/
+}
 .icon{
 	clear: left;
 	font-size: 60px;
